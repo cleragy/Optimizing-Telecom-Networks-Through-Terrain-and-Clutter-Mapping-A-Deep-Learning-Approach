@@ -1,5 +1,4 @@
-# Optimizing-Telecom-Networks-Through-Terrain-and-Clutter-Mapping-A-Deep-Learning-Approach
-Optimizing Telecom Networks Through Terrain and Clutter Mapping: A Deep Learning Approach
+
 # Optimizing Telecom Networks Through Terrain and Clutter Mapping: A Deep Learning Approach
 
 ## Overview
@@ -45,7 +44,3 @@ The project utilizes real-world terrain and clutter data from telecom sectors, a
 - Jupyter Notebook or any other preferred IDE
 - Necessary Python packages (see `requirements.txt`)
 
-### Steps to Set Up
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/telecom-terrain-clutter-mapping.git
